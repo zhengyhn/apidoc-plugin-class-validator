@@ -58,4 +58,4 @@ export function register () {
 
 - Open the docs
 
-![demo](./demo.png)
+![demo](https://github.com/zhengyhn/apidoc-plugin-class-validator/blob/master/demo.png?raw=true)
